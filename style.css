@@ -1,0 +1,8 @@
+Write only the complete `style.css` code (CSS3) that styles the "Samee" portfolio `index.html` page.
+Include:
+- CSS variables (`:root`) for a modern dark theme (#0f172a background, #38bdf8 and #818cf8 gradients, glass/card surfaces) and `body.light-mode` override variables.
+- Smooth scrolling, reset rules, container max-width 1100px, and `.gradient-text` styling.
+- Fixed glassmorphism `.navbar`, responsive `.nav-links`, `.icon-btn`, and mobile hamburger menu (`.mobile-only` and `.nav-links.open`).
+- Hero section with 2-column grid, large "Samee" title, blinking cursor animation, gradient & outline buttons, and floating `.glow-circle`.
+- Styled sections, 2-column About grid with stats grid, responsive Skills grid with gradient progress bars, filterable Projects grid with hover zoom images, 2-column Contact wrapper with inputs/textarea, footer, `.reveal.active` scroll animation, and mobile responsive media queries (@media max-width: 768px).
+Do not include HTML or JavaScript.
